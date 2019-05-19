@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64357ab8-5160-4f65-b46b-f24629ec75c0" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/cipher/core_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cipher/core.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/cipher/core_test.clj" />
+        <option value="$PROJECT_DIR$/src/cipher/core.clj" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="62" />
+    <option name="y" value="21" />
+    <option name="width" value="1168" />
+    <option name="height" value="701" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="ReplState" timestamp="1558301306786">{:repl-history {:ide [], :local [{:command &quot;(defn f [x y] (+ x y 100))&quot;, :offset 26, :ns &quot;cipher.core&quot;} {:command &quot;(defn f [x y] (+ x y 100))\n(f 2 3)&quot;, :offset 34, :ns &quot;cipher.core&quot;} {:command &quot;*ns*&quot;, :offset 4, :ns &quot;cipher.core&quot;} {:command &quot;(f 2 3)&quot;, :offset 7, :ns &quot;cipher.core&quot;} {:command &quot;(fun 3 4)&quot;, :offset 9, :ns &quot;cipher.core&quot;} {:command &quot;(if true \&quot;yes\&quot; \&quot;no\&quot;)&quot;, :offset 20, :ns &quot;cipher.core&quot;} {:command &quot;(+ 1 2)&quot;, :offset 6, :ns &quot;cipher.core&quot;} {:command &quot;\\x&quot;, :offset 2, :ns &quot;cipher.core&quot;} {:command &quot;(int \\x)&quot;, :offset 7, :ns &quot;cipher.core&quot;} {:command &quot;(int \&quot;x\&quot;)&quot;, :offset 7, :ns &quot;cipher.core&quot;} {:command &quot;(char 97)&quot;, :offset 8, :ns &quot;cipher.core&quot;} {:command &quot;(char 0)&quot;, :offset 7, :ns &quot;cipher.core&quot;} {:command &quot;(mod 3 0)&quot;, :offset 9, :ns &quot;cipher.core&quot;} {:command &quot;(mod 0 3)&quot;, :offset 8, :ns &quot;cipher.core&quot;} {:command &quot;(mod 1 3)&quot;, :offset 9, :ns &quot;cipher.core&quot;} {:command &quot;(mod 2 3)&quot;, :offset 8, :ns &quot;cipher.core&quot;} {:command &quot;(mod 3 3)&quot;, :offset 8, :ns &quot;cipher.core&quot;} {:command &quot;(mod 4 3)&quot;, :offset 8, :ns &quot;cipher.core&quot;} {:command &quot;(mod 10 5)&quot;, :offset 9, :ns &quot;cipher.core&quot;} {:command &quot;(mod 123 26)&quot;, :offset 11, :ns &quot;cipher.core&quot;} {:command &quot;(mapv to-int [\\a \\b \\c])&quot;, :offset 13, :ns &quot;cipher.core&quot;} {:command &quot;(mapv to-char (mapv to-int [\\a \\b \\c]))&quot;, :offset 6, :ns &quot;cipher.core&quot;} {:command &quot;\&quot;banana\&quot;&quot;, :offset 7, :ns &quot;cipher.core&quot;} {:command &quot;(chars \&quot;banana\&quot;)&quot;, :offset 14, :ns &quot;cipher.core&quot;} {:command &quot;(split \&quot;banana\&quot;)&quot;, :offset 14, :ns &quot;cipher.core&quot;} {:command &quot;(seq \&quot;banana\&quot;)&quot;, :offset 12, :ns &quot;cipher.core&quot;} {:command &quot;(mapv #(+ 10 %1) [1 2 3])&quot;, :offset 15, :ns &quot;cipher.core&quot;} {:command &quot;(clojure.string/join [\\a \\b \\c])&quot;, :offset 30, :ns &quot;cipher.core&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="REPL for cipher" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="cipher" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <module name="" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64357ab8-5160-4f65-b46b-f24629ec75c0" name="Default Changelist" comment="" />
+      <created>1558198576857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558198576857</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15733737" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="REPL" sideWeight="0.502455" side_tool="true" visible="true" weight="0.24054463" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Leiningen" sideWeight="0.497545" weight="0.31316188" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test/cipher/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cipher/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
